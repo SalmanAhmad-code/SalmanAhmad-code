@@ -55,16 +55,6 @@ I am a passionate **Software Engineering Student** at **COMSATS University Islam
 
 ---
 
-### 🏆 My GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SalmanAhmad-code&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Salman's Trophies" />
-  </a>
-</p>
-
----
-
 ### 💻 Featured Projects
 
 <table>
@@ -108,7 +98,7 @@ I am a passionate **Software Engineering Student** at **COMSATS University Islam
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanAhmad-code&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Salman's Contribution Graph" width="100%" />
