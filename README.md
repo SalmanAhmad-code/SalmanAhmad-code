@@ -101,12 +101,12 @@ I am a passionate **Software Engineering Student** at **COMSATS University Islam
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmanAhmad-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Salman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanAhmad-code&theme=tokyonight&hide_border=true" alt="Salman's GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanAhmad-code&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Salman's Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanAhmad-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanAhmad-code&theme=tokyonight&hide_border=true" alt="Salman's GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalmanAhmad-code&theme=tokyonight" alt="Salman's Profile Summary" width="49%" />
 </p>
 
 ---
