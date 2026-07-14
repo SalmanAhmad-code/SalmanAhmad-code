@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Salman%20Ahmad&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%26%20Full-Stack%20Web%20Developer&descSize=23&descAlignY=68&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Salman%20Ahmad&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descSize=23&descAlignY=68&animation=twinkling" width="100%" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@ I am a passionate **Software Engineering Student** at **COMSATS University Islam
 
 * 🚀 I specialize in building complete, production-ready full-stack applications using **Next.js**, **Supabase**, and **Firebase**.
 * 🧠 I love integrating intelligence into web apps utilizing **OpenAI & Gemini APIs**.
-* 💼 Experiencing in delivering real-world projects for businesses, SaaS platforms, and student communities.
+* 💼 Experienced in delivering real-world projects for businesses, SaaS platforms, and student communities.
 * ⚡ Fun fact: When I'm not coding or designing interfaces, you can find me analyzing tactics on the chess board!
 
 ---
